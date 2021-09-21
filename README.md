@@ -1,6 +1,6 @@
 ### Address Book Management System
 
-**Use case 1: Creating a single contact  **
+**Use case 1: Creating a single contact**
 [UC1_CreateContact](https://github.com/shruti2898/Address-Book-Management-System/blob/master/UC1_CreateContact.cs) class has only one method CreateContact() which will take input from user and appends them into a string named **contact** . Then it prints the contact string.
 
 
